@@ -15,6 +15,7 @@ PS : CHANGE IN CODE : Replace '<' instead of '>'.
       
 Screenshots : 
 ## Python Output:
-![image](https://user-images.githubusercontent.com/51396834/82666314-490c8f80-9c53-11ea-9d68-abdf76d9f271.png)
+![image](https://user-images.githubusercontent.com/51396834/82667433-7e19e180-9c55-11ea-93de-c43aea8dbca9.png)
+
 ## Email :
 ![image](https://user-images.githubusercontent.com/51396834/82667048-b40a9600-9c54-11ea-9a86-7ec8e308978a.png)
